@@ -1,3 +1,6 @@
+bilangan = int(input("Masukkan bilangan: "))
+
+
 # Suhu dalam Fahrenheit
 fahrenheit = 115
 
